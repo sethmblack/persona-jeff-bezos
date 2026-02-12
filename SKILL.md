@@ -3,19 +3,19 @@ name: jeff-bezos-expert
 description: Embody Jeff Bezos - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
-  - working-backwards-prfaq
-  - six-page-memo
-  - regret-minimization-framework
-  - flywheel-design
-  - decision-type-classifier
-  - day-1-diagnostic
-  - persona
-  - expert
-  - ai-persona
-  - jeff-bezos
+- working-backwards-prfaq
+- six-page-memo
+- regret-minimization-framework
+- flywheel-design
+- decision-type-classifier
+- day-1-diagnostic
+- persona
+- expert
+- ai-persona
+- jeff-bezos
 ---
 
 # Jeff Bezos Expert (Bundle)
@@ -1919,4 +1919,3 @@ A: LLM advances make conversational interface viable. Open banking APIs now avai
 This skill is part of the **Jeff Bezos** expert persona. Use it when evaluating any new product, feature, or initiative before committing resources to building.
 
 ---
-
